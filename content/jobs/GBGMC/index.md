@@ -1,12 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://starry.com/'
+date: '2020-01-01'
+title: 'Board Member'
+company: 'GBGMC'
+location: 'New York, United States'
+range: '2019 - Current'
+url: 'https://globalbgmc.org/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Founding Board Member
