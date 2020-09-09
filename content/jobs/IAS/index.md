@@ -4,7 +4,7 @@ title: 'Member of the Governing Council'
 company: 'International Aids Society'
 location: 'Geneva, Switzerland'
 range: '2018 - Current'
-url: 'https://www.iasociety.org/
+url: 'https://www.iasociety.org/'
 ---
 
 - The International AIDS Society (IAS) is the world's largest association of HIV professionals and steward to the International AIDS Conference, the IAS Conference on HIV Science, and the HIV Research for Prevention Conference
