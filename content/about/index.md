@@ -8,6 +8,8 @@ skills:
   - Sexual and Gender Minority Health
 ---
 
+UNDER CONSTRUCTION!!
+
 PhD candidate in social network epidemiology at Harvard University. 
 
 I'm currently fascinated with human relationships and how they shape population health. I came through a winding road, starting in LGBT anti-violence organizing in Cape Town, through survey research on health and human rights in Oakland, HIV policy advocacy in Geneva, and HIV programs in Johannesburg. 
