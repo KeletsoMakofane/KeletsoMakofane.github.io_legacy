@@ -1,7 +1,7 @@
 ---
 title: ''
 name: 'Keletso Makofane, MPH'
-subtitle: 'social epidemiologist'
+subtitle: '[UNDER CONSTRUCTION]'
 buttonText: 'Get In Touch'
 ---
 
