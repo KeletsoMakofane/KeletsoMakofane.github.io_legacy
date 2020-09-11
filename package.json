@@ -78,7 +78,6 @@
     "prettier": "^2.0.4"
   },
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b master",
-    "start": "gatsby develop"
+    "deploy": "gatsby build && gh-pages -d public -b master"
   }
 }
