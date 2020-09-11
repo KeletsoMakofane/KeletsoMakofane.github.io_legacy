@@ -216,7 +216,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Causal Inference Teaching</Heading>
+      <Heading ref={revealTitle}>Projects</Heading>
 
       <div>
         {featuredProjects &&

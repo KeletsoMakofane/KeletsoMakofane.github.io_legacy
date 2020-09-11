@@ -8,4 +8,4 @@ url: 'https://www.apple.com/music/'
 ---
 
 - LVCT Health is a Kenyan non-governmental organization the provides innovative, integrated, and comprehensive HIV services at scale.
-- The Board of Directors oversees overall strategy for the organization
+- In the Board of Directors I help to provide strategic and financial oversight.

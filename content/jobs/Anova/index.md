@@ -7,6 +7,5 @@ range: '2014 - 2017'
 url: 'https://www.anovahealth.co.za/'
 ---
 
-- Led a community health outreach program for men who have sex with men
-- Oversaw the expansion of the program from 10 staff members in 3 cities to over 35 staff members in 7 cities
-- Developed and implemented a national monitoring and evaluation system for the program
+- The Anova Health Institute Health4Men Initiative addresses the sexual health needs of gay men and other men who have sex with men in South Africa.
+- In my work there I led a community outreach program which grew from 10 team members in 3 cities to over 35 in 7 cities.
