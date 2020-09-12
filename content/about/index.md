@@ -2,10 +2,9 @@
 title: 'About Me'
 avatar: './keletso.jpg'
 skills:
-  - Social Networks and Health
-  - Causal Inference
-  - Spillover
-  - Interference
+  - BBusSci in Actuarial Science, University of Cape Town, South Africa
+  - MPH in Biostatistics, Columbia University, United States
+  - Fulbright Alum
 ---
 
 PhD candidate in social network epidemiology at Harvard University.
@@ -16,4 +15,4 @@ In my dissertation research, I investigate the impact of family relationships on
 
 I assume the opposite and adapt and apply cutting-edge causal inference methods to answer the question: how do the resources of one person affect the health of another?
 
-Some key words:
+Educational Background:
