@@ -5,4 +5,4 @@ subtitle: 'social epidemiology'
 buttonText: 'Get In Touch'
 ---
 
-social networks, population health, and causal inference
+social networks, health disparities, causal inference, HIV
