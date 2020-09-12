@@ -2,6 +2,7 @@
 title: 'About Me'
 avatar: './keletso.jpg'
 skills:
+  - PhD Candidate in Social Network Epidemiology, Harvard University, United States
   - BBusSci in Actuarial Science, University of Cape Town, South Africa
   - MPH in Biostatistics, Columbia University, United States
   - Fulbright Alum
