@@ -1,10 +1,8 @@
 module.exports = {
-  siteTitle: 'Keletso Makofane | Social Epidemiologist',
-  siteDescription:
-    'Keletso Makofane is a social network epidemiologist.',
-  siteKeywords:
-    'Keletso Makofane, Makofane, Harvard',
-  siteUrl: 'https://keletsomakofane.github.io/',
+  siteTitle: 'Keletso Makofane | Social Epi',
+  siteDescription: 'Keletso Makofane is a social network epidemiologist.',
+  siteKeywords: 'Keletso Makofane, Makofane, Harvard',
+  siteUrl: 'www.keletsomakofane.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
@@ -14,7 +12,7 @@ module.exports = {
   github: 'https://github.com/KeletsoMakofane',
   twitterHandle: '@klts0',
   socialMedia: [
-        {
+    {
       name: 'Twitter',
       url: 'https://twitter.com/klts0',
     },
