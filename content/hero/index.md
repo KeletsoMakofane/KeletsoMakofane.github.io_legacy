@@ -5,4 +5,5 @@ subtitle: 'social epidemiology'
 buttonText: 'Get In Touch'
 ---
 
-social networks, health disparities, causal inference, HIV
+social networks, health disparities, causal inference, HIV<br/>
+phd candidate at harvard university
