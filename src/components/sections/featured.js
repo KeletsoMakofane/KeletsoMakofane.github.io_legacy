@@ -52,8 +52,8 @@ const StyledDescription = styled.div`
   font-size: ${fontSizes.lg};
   border-radius: ${theme.borderRadius};
   ${media.thone`
-    background-color: transparent;
-    padding: 20px 0;
+    background-color: ${colors.lightNavy};
+    padding: 20px 20px;
     box-shadow: none;
     &:hover {
       box-shadow: none;
