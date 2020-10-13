@@ -11,6 +11,9 @@
     "gatsby"
   ],
   "license": "MIT",
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
